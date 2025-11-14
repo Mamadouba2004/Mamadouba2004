@@ -17,7 +17,7 @@
 - Automating workflows with Microsoft Copilot Studio at Apex Forum
 
 ## 📫 Connect With Me
-- LinkedIn:https://www.linkedin.com/in/ba-mamadou2004/
+- LinkedIn: https://www.linkedin.com/in/ba-mamadou2004/
 - Email: Mamadou.Ba@CIX.CSI.CUNY.EDU
 
 ## 🎯 2025 Goals
