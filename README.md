@@ -16,6 +16,14 @@
 - Solving LeetCode problems daily to prepare for technical interviews
 - Automating workflows with Microsoft Copilot Studio at Apex Forum
 
+## 🚀 Featured Project
+
+### [A-STAR Game](https://github.com/Mamadouba2004/astar-game)
+Strategic Battleship-style game with intelligent AI opponents
+- **Languages:** C++
+- **Features:** Probability-based targeting, recursive placement algorithms, 3 AI difficulty levels
+- **Course:** CSC 326 - Data Structures
+
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/ba-mamadou2004/
 - Email: Mamadou.Ba@CIX.CSI.CUNY.EDU
